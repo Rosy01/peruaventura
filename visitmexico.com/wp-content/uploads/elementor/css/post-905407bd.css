@@ -1,0 +1,41 @@
+.elementor-9054 .elementor-element.elementor-element-34428f9 .elementor-icon-wrapper{text-align:center;}.elementor-9054 .elementor-element.elementor-element-34428f9 .elementor-icon i, .elementor-9054 .elementor-element.elementor-element-34428f9 .elementor-icon svg{transform:rotate(0deg);}.elementor-9054 .elementor-element.elementor-element-00558a3{text-align:center;}.elementor-9054 .elementor-element.elementor-element-56dd01c .premium-modal-trigger-container{text-align:center;}.elementor-9054 .elementor-element.elementor-element-56dd01c .premium-modal-trigger-btn, .elementor-9054 .elementor-element.elementor-element-56dd01c .premium-modal-trigger-text{color:#FFFFFF;}.elementor-9054 .elementor-element.elementor-element-56dd01c .premium-modal-trigger-btn{background-color:var( --e-global-color-accent );}.elementor-9054 .elementor-element.elementor-element-56dd01c .premium-modal-trigger-btn, .elementor-9054 .elementor-element.elementor-element-56dd01c .premium-modal-trigger-text, .elementor-9054 .elementor-element.elementor-element-56dd01c .premium-modal-trigger-img{border-radius:5px;}.elementor-9054 .elementor-element.elementor-element-56dd01c .premium-modal-trigger-btn:hover, .elementor-9054 .elementor-element.elementor-element-56dd01c .premium-modal-trigger-text:hover{color:#FFFFFF;}.elementor-9054 .elementor-element.elementor-element-56dd01c .premium-modal-trigger-btn:hover{background:#29B3B7;}.elementor-9054 .elementor-element.elementor-element-56dd01c .premium-modal-box-modal-dialog{overflow:auto;}.elementor-9054 .elementor-element.elementor-element-25d7b01 .elementor-icon-wrapper{text-align:center;}.elementor-9054 .elementor-element.elementor-element-25d7b01 .elementor-icon i, .elementor-9054 .elementor-element.elementor-element-25d7b01 .elementor-icon svg{transform:rotate(0deg);}.elementor-9054 .elementor-element.elementor-element-e05559e{text-align:center;}.elementor-9054 .elementor-element.elementor-element-04ae8cd .elementor-widget-container{text-align:center;}.elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button .premium-button-text-icon-wrapper span{color:#FFFFFF;}.elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button.premium-button-style2-shutinhor:before , .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button.premium-button-style2-shutinver:before , .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style5-radialin:before , .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style5-rectin:before{background-color:var( --e-global-color-accent );}.elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button{border-radius:5px;}.elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button:hover .premium-button-text-icon-wrapper span{color:#FFFFFF;}.elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-none:hover, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style1:before, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style2-shutouthor:before, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style2-shutoutver:before, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style2-shutinhor, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style2-shutinver, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style2-dshutinhor:before, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style2-dshutinver:before, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style2-scshutouthor:before, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style2-scshutoutver:before, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style3-after:hover, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style3-before:hover, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style4-icon-wrapper, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style5-radialin, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style5-radialout:before, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style5-rectin, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style5-rectout:before, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style6-bg, .elementor-9054 .elementor-element.elementor-element-04ae8cd .premium-button-style6:before{background-color:#29B3B7;}.elementor-9054 .elementor-element.elementor-element-b7eef89{--divider-border-style:solid;--divider-color:#FFFFFF00;--divider-border-width:1px;}.elementor-9054 .elementor-element.elementor-element-b7eef89 .elementor-divider-separator{width:100%;margin:0 auto;margin-center:0;}.elementor-9054 .elementor-element.elementor-element-b7eef89 .elementor-divider{text-align:center;padding-top:50px;padding-bottom:50px;}/* Start custom CSS */form label {
+    margin-top: 0;
+    color: #000;
+    font-size: 26px;
+    font-size: 1.625rem;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Livvic', sans-serif;
+    text-transform: uppercase;
+}
+
+#pwbox-9054 {
+    padding: 11px 10px;
+    font-size: 16px;
+    font-size: 1rem;
+    background: #fcfcfc;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 4px solid rgba(74, 74, 74,.19);
+    width: 350px;
+    border-radius: 0;
+}
+
+form [type="submit"] {
+    color: #ffffff;
+    background-color: #FF6B22;
+    border-radius: 5px;
+    border: none;
+}
+
+form [type="submit"] :hover {
+    color: #ffffff;
+}
+
+.form-div {
+    background-color: #fcfcfc;
+    border-radius: 5px;
+    text-align: center;
+    margin: 75px;
+}/* End custom CSS */

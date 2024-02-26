@@ -1,0 +1,463 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 24 Feb 2024 16:36:38 at https://visitmexico.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://visitmexico.com/ -O1 "C:\Users\Usuario\Desktop\proyecto2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:39:07	Error: 	"Not Found" (404) at link https://visitmexico.com/comments/feed (from https://visitmexico.com/)
+16:43:06	Warning: 	Moved Permanently for https://visitmexico.com/?page_id=5538
+16:43:06	Warning: 	File has moved from https://visitmexico.com/?page_id=5538 to https://visitmexico.com/sol-y-playa-2
+16:43:07	Warning: 	Moved Permanently for https://visitmexico.com/?page_id=4696
+16:43:07	Warning: 	File has moved from https://visitmexico.com/?page_id=4696 to https://visitmexico.com/aguascalientes-3
+16:43:08	Warning: 	Moved Permanently for https://visitmexico.com/?page_id=5539
+16:43:08	Warning: 	File has moved from https://visitmexico.com/?page_id=5539 to https://visitmexico.com/gastronomia
+16:43:09	Warning: 	Moved Permanently for https://visitmexico.com/?page_id=3539
+16:43:09	Warning: 	File has moved from https://visitmexico.com/?page_id=3539 to https://visitmexico.com/eventos
+16:43:09	Warning: 	Moved Permanently for https://visitmexico.com/?page_id=3514
+16:43:09	Warning: 	File has moved from https://visitmexico.com/?page_id=3514 to https://visitmexico.com/estados
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CAM_calakmul28.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CHIS_sancristobal_12.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCS_Los_cabos_21_.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCN_tecate_299.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CAM_campeche225.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/DF_castillo_chapultepec_03.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CHI_Barrancasdelcobre_ParqueAventura-87.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/COAH_2_museo_desierto_11.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/COL_colima_111.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/DGO_Hda_la_joya_5.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MEX_valle_t_72.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/GTO_dolores_311.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/GRO_cacahuamilpa_73.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/GRO_taxco_325.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/HGO_hda_sandiego_tlayayote_26.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/HGO_sn_miguel_regla_20.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/JAL_careyes_11.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/JAL_general_11137.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/JAL_las_alamandas_306.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/JAL_agaves_884.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MICH_cuitzeo_198.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MICH_janitzio_38.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MICH_patzcuaro_63.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MICH_uruapan_131.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MOR_Hda_temixco_t_102.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MOR_xochicalco_t_236.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/NAY_latovara_45.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/NAY_RinconDeGuayabitos_Playas_0206.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/NAY_sanblas_84.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/monterrey_nuevo_leon.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/NL_monterrey_2_159.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/OAX_ciudad_617.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/OAX_montealban_12.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/OAX_quintareal_13.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/PUE_cuetzalan_1435.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/PUE_elrosario61.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/TAB_comalcalco21.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/TAB_Jalpa_de_Mendez8.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/TAB_Pantanos_de_centla1.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/TMPS_aldama_2_61.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/TMPS_ciudad_victoria_013.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/TMPS_tampico_2_874.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/TLX_Hda_soltepec_89.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/TLX_mural_22.jpg/u0022 (from https://visitmexico.com/)
+16:43:09	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/VER_catemaco104.jpg/u0022 (from https://visitmexico.com/)
+16:43:15	Error: 	"Bad Request" (400) at link https://visitmexico.com/wp-admin/admin-ajax.php?action=rest-nonce (from https://visitmexico.com/)
+16:43:15	Warning: 	Moved Permanently for https://visitmexico.com/eng/home-2/
+16:43:15	Warning: 	File has moved from https://visitmexico.com/eng/home-2/ to https://visitmexico.com/eng/home-2
+16:43:15	Error: 	"Not Found" (404) at link https://visitmexico.com/eng/comments/feed (from https://visitmexico.com/eng/home-2)
+16:45:50	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/back_pueblosMa%c3%8c%c2%81gicos-02.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-2418.css?ver=1706802999)
+16:45:50	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/back_me%c3%8c%c2%81xico-02.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-2418.css?ver=1706802999)
+16:47:17	Warning: 	Moved Permanently for https://visitmexico.com/?p=3514
+16:47:17	Warning: 	File has moved from https://visitmexico.com/?p=3514 to https://visitmexico.com/estados
+16:47:25	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://visitmexico.com/wp-content/uploads/essential-addons-elementor/eael-5508.js?ver=1683192749
+16:49:55	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://visitmexico.com/wp-content/uploads/essential-addons-elementor/eael-4707.js?ver=1683195380
+16:50:50	Warning: 	Moved Permanently for https://visitmexico.com/?p=5527
+16:50:50	Warning: 	File has moved from https://visitmexico.com/?p=5527 to https://visitmexico.com/pueblos-magicos
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MEX_Ixtapan_de_la_sal3.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MEX_metepec_t_198.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MEX_Valle.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/HGO_real_delMonte_20.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MICH_cuitzeo_5.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MICH_cuitzeo_198.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MICH_staclara_97.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MICH_tzintzuntzan_94.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCS_todos_santos_23_.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CHI_SanCristobal_Zocalo_02.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CHIS_palenque_32.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/Coahuila_CuatroCienegas_PozaAzul_9.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/COL_comala_136-1.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:50	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/COL_comala_haciendadesanantonio-407-1.png/u0022 (from https://visitmexico.com/pueblos-magicos)
+16:50:58	Warning: 	Moved Permanently for https://visitmexico.com/?p=3539
+16:50:58	Warning: 	File has moved from https://visitmexico.com/?p=3539 to https://visitmexico.com/eventos
+16:50:58	Warning: 	Moved Permanently for https://visitmexico.com/?p=9054
+16:50:58	Warning: 	File has moved from https://visitmexico.com/?p=9054 to https://visitmexico.com/materiales-promocionales
+16:51:06	Warning: 	Moved Permanently for https://visitmexico.com/?p=171
+16:51:06	Warning: 	File has moved from https://visitmexico.com/?p=171 to https://visitmexico.com/blog
+16:51:41	Warning: 	Moved Permanently for https://visitmexico.com/?p=9480
+16:51:41	Warning: 	File has moved from https://visitmexico.com/?p=9480 to https://visitmexico.com/videos
+16:52:52	Warning: 	Moved Permanently for https://visitmexico.com/?p=10077
+16:52:52	Warning: 	File has moved from https://visitmexico.com/?p=10077 to https://visitmexico.com/guias-turisticas
+16:53:37	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/back_maps_Mesa-de-trabajo-1.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-7808.css?ver=1706803462)
+16:53:37	Warning: 	Moved Permanently for https://visitmexico.com/?p=8155
+16:53:37	Warning: 	File has moved from https://visitmexico.com/?p=8155 to https://visitmexico.com/eng/states
+16:53:37	Warning: 	Moved Permanently for https://visitmexico.com/?p=7971
+16:53:37	Warning: 	File has moved from https://visitmexico.com/?p=7971 to https://visitmexico.com/eng/magical-towns
+16:53:37	Warning: 	Moved Permanently for https://visitmexico.com/?p=7906
+16:53:37	Warning: 	File has moved from https://visitmexico.com/?p=7906 to https://visitmexico.com/eng/international-events
+16:53:37	Warning: 	Moved Permanently for https://visitmexico.com/?p=8500
+16:53:37	Warning: 	File has moved from https://visitmexico.com/?p=8500 to https://visitmexico.com/eng/blog-2
+16:53:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7996
+16:53:44	Warning: 	File has moved from https://visitmexico.com/?p=7996 to https://visitmexico.com/eng/sun-and-beach
+16:53:44	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCS_cabo_pulmo_26-1.jpg/u0022 (from https://visitmexico.com/eng/sun-and-beach)
+16:53:44	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCS_delfines_4.jpg/u0022 (from https://visitmexico.com/eng/sun-and-beach)
+16:53:44	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCS_la_paz_28_.jpg/u0022 (from https://visitmexico.com/eng/sun-and-beach)
+16:53:44	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCS_LaPaz_PlayaBalandra-370.jpg/u0022 (from https://visitmexico.com/eng/sun-and-beach)
+16:53:44	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCS_t_96.jpg/u0022 (from https://visitmexico.com/eng/sun-and-beach)
+16:53:44	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCS_t_2024.jpg/u0022 (from https://visitmexico.com/eng/sun-and-beach)
+16:53:44	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCN_bahia_angeles_135.jpg/u0022 (from https://visitmexico.com/eng/sun-and-beach)
+16:53:44	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCN_sn_felipe_146.jpg/u0022 (from https://visitmexico.com/eng/sun-and-beach)
+16:53:44	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCN_sn_felipe_320.jpg/u0022 (from https://visitmexico.com/eng/sun-and-beach)
+16:53:47	Warning: 	Moved Permanently for https://visitmexico.com/?p=7885
+16:53:47	Warning: 	File has moved from https://visitmexico.com/?p=7885 to https://visitmexico.com/eng/culture
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/DF_Bellas_artes_09.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CAM_Hochob14.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/DF_estadio_CU_48.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CAM_Edzna80.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/DF_museo_antropologia_80.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CAM_Edzna49.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/DF_san_ildefonso_03.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CAM_Dzibilnocac26-1.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/DF_unam_21.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CAM_Dzibilnocac10-1.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CAM_calakmul53-1.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/HGO_huapalcalco_15.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/HGO_xihuingo_22.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/NAY_los_toriles_30.jpg/u0022 (from https://visitmexico.com/eng/culture)
+16:53:47	Warning: 	Moved Permanently for https://visitmexico.com/?p=7833
+16:53:47	Warning: 	File has moved from https://visitmexico.com/?p=7833 to https://visitmexico.com/eng/nature-and-adventure
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/OAX_costa_150.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/NL_Sta_Catarina_Huasteca119.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/GRO_barravieja_8.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/GTO_leon_t_75.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/Dgo_Puente_de_ojuela313.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CHI_Arareko-16.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CHI_Barrancasdelcobre_ParqueAventura-76.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CHI_Barrancasdelcobre_ParqueAventura-82.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CHI_Barrancasdelcobre_ParqueAventura-94.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CHI_Barrancasdelcobre_ParqueAventura-155.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CHI_Basaseachi_hiking-57.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CHI_Samalayuca_Dunas-13.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/CHI_Basaseachi_hiking-59.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCN_ensenada_123.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCN_ensenada_135-1.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCA_rosarito_playa-952.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/VER_PicoDeOrizaba_Alpinismo_0012.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/TMPS_miramar_2_236.jpg/u0022 (from https://visitmexico.com/eng/nature-and-adventure)
+16:53:47	Warning: 	Moved Permanently for https://visitmexico.com/?p=7911
+16:53:47	Warning: 	File has moved from https://visitmexico.com/?p=7911 to https://visitmexico.com/eng/gastronomia-en
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/JAL_general_10241.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/AGS_aguascalientes_621.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCN_puerto_nuevo_15.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCN_tecate_198.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/BCN_tijuana_394.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/COA_Parras_Dulces-71-1.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/COL_comala_37.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/DGO_Cd_Durango_103.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/HGO_t2_actopan_356.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/JAL-Tequila-CentroTequila-PueblosMagicos-Gastronomia-FabianGarcilita-_GU17452.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/JAL_vallarta_2927.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/MICH_tzintzuntzan_327.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/NAY_nuevo_vallarta_523.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/NAY_mexcaltitan_214.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/PUE-Puebla-Gastronomia-JoyasColoniales-FabianGarcilita-BC3_3712-1.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/TAB_Paraiso47.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/TAB_El_eden_restautante12.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/TMPS_tampico_2_131.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/TLX_gastronomia_48.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.sectur.gob.mx/wp-content/uploads/2022/09/VER_veracruz154.jpg/u0022 (from https://visitmexico.com/eng/gastronomia-en)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_aguascalientes.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_aguascalientes-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_baja-california.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_baja-california-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_baja-california-sur.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_baja-california-sur-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_campeche.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_campeche-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_chiapas.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_chiapas-2.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_chihuahua.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_chihuahua-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_ciudad-de-mexico.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_ciudad-de-mexico-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_coahuila.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_coahuila-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_colima.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_colima-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_durango.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_durango-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_estado-de-mexico.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_estado-de-mexico-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_guanajuato.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_guanajuato-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_guerrero.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_guerrero-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_hidalgo.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_hidalgo-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_jalisco.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_jalisco-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_michoacan.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_michoacan-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_morelos.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_morelos-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_nayarit.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_nayarit-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_nuevo-leon.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_nuevo-leon-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_oaxaca.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_oaxaca-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_puebla.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_puebla-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_queretaro.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_queretaro-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_quintana-roo.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_quintana-roo-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_san-luis-potosi.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_san-luis-potosi-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_sinaloa.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_sinaloa-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_sonora.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_sonora-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_tabaso.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_tabasco.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_tamaulipas.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_tamaulipas-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_tlaxcala.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_tlaxcala-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_veracruz.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_veracruz-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_yucatan.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_yucatan-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_zacatecas.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:47	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/visit_me%c3%8c%c2%81xico_zacatecas-4.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-3514.css?ver=1698255722)
+16:53:52	Warning: 	Moved Permanently for https://visitmexico.com/?p=5508
+16:53:52	Warning: 	File has moved from https://visitmexico.com/?p=5508 to https://visitmexico.com/aguascalientes-5
+16:53:55	Warning: 	Moved Permanently for https://visitmexico.com/?p=3483
+16:53:55	Warning: 	File has moved from https://visitmexico.com/?p=3483 to https://visitmexico.com/baja-california-2
+16:53:58	Warning: 	Moved Permanently for https://visitmexico.com/?p=4722
+16:53:58	Warning: 	File has moved from https://visitmexico.com/?p=4722 to https://visitmexico.com/baja-california-sur
+16:54:01	Warning: 	Moved Permanently for https://visitmexico.com/?p=4699
+16:54:01	Warning: 	File has moved from https://visitmexico.com/?p=4699 to https://visitmexico.com/campeche
+16:54:04	Warning: 	Moved Permanently for https://visitmexico.com/?p=4735
+16:54:04	Warning: 	File has moved from https://visitmexico.com/?p=4735 to https://visitmexico.com/chiapas
+16:54:08	Warning: 	Moved Permanently for https://visitmexico.com/?p=4740
+16:54:08	Warning: 	File has moved from https://visitmexico.com/?p=4740 to https://visitmexico.com/chihuahua
+16:54:11	Warning: 	Moved Permanently for https://visitmexico.com/?p=4743
+16:54:11	Warning: 	File has moved from https://visitmexico.com/?p=4743 to https://visitmexico.com/cdmx
+16:54:14	Warning: 	Moved Permanently for https://visitmexico.com/?p=4746
+16:54:14	Warning: 	File has moved from https://visitmexico.com/?p=4746 to https://visitmexico.com/coahuila
+16:54:17	Warning: 	Moved Permanently for https://visitmexico.com/?p=4748
+16:54:17	Warning: 	File has moved from https://visitmexico.com/?p=4748 to https://visitmexico.com/colima
+16:54:21	Warning: 	Moved Permanently for https://visitmexico.com/?p=4711
+16:54:21	Warning: 	File has moved from https://visitmexico.com/?p=4711 to https://visitmexico.com/durango
+16:54:24	Warning: 	Moved Permanently for https://visitmexico.com/?p=4714
+16:54:24	Warning: 	File has moved from https://visitmexico.com/?p=4714 to https://visitmexico.com/estado-de-mexico
+16:54:28	Warning: 	Moved Permanently for https://visitmexico.com/?p=4716
+16:54:28	Warning: 	File has moved from https://visitmexico.com/?p=4716 to https://visitmexico.com/guanajuato
+16:54:31	Warning: 	Moved Permanently for https://visitmexico.com/?p=4718
+16:54:31	Warning: 	File has moved from https://visitmexico.com/?p=4718 to https://visitmexico.com/guerrero
+16:54:34	Warning: 	Moved Permanently for https://visitmexico.com/?p=4720
+16:54:34	Warning: 	File has moved from https://visitmexico.com/?p=4720 to https://visitmexico.com/hidalgo
+16:54:37	Warning: 	Moved Permanently for https://visitmexico.com/?p=4725
+16:54:37	Warning: 	File has moved from https://visitmexico.com/?p=4725 to https://visitmexico.com/jalisco
+16:54:41	Warning: 	Moved Permanently for https://visitmexico.com/?p=4727
+16:54:41	Warning: 	File has moved from https://visitmexico.com/?p=4727 to https://visitmexico.com/michoacan
+16:54:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=4729
+16:54:44	Warning: 	File has moved from https://visitmexico.com/?p=4729 to https://visitmexico.com/morelos
+16:54:47	Warning: 	Moved Permanently for https://visitmexico.com/?p=4697
+16:54:47	Warning: 	File has moved from https://visitmexico.com/?p=4697 to https://visitmexico.com/nayarit-2
+16:54:50	Warning: 	Moved Permanently for https://visitmexico.com/?p=4261
+16:54:50	Warning: 	File has moved from https://visitmexico.com/?p=4261 to https://visitmexico.com/nuevo-leon
+16:54:54	Warning: 	Moved Permanently for https://visitmexico.com/?p=4263
+16:54:54	Warning: 	File has moved from https://visitmexico.com/?p=4263 to https://visitmexico.com/oaxaca
+16:54:57	Warning: 	Moved Permanently for https://visitmexico.com/?p=4259
+16:54:57	Warning: 	File has moved from https://visitmexico.com/?p=4259 to https://visitmexico.com/puebla
+16:55:00	Warning: 	Moved Permanently for https://visitmexico.com/?p=4702
+16:55:00	Warning: 	File has moved from https://visitmexico.com/?p=4702 to https://visitmexico.com/queretaro
+16:55:03	Warning: 	Moved Permanently for https://visitmexico.com/?p=4705
+16:55:03	Warning: 	File has moved from https://visitmexico.com/?p=4705 to https://visitmexico.com/quintana-roo
+16:55:06	Warning: 	Moved Permanently for https://visitmexico.com/?p=4707
+16:55:06	Warning: 	File has moved from https://visitmexico.com/?p=4707 to https://visitmexico.com/san-luis-potosi
+16:55:10	Warning: 	Moved Permanently for https://visitmexico.com/?p=4680
+16:55:10	Warning: 	File has moved from https://visitmexico.com/?p=4680 to https://visitmexico.com/aguascalientes-4
+16:55:10	Warning: 	Moved Permanently for https://visitmexico.com/?p=4709
+16:55:10	Warning: 	File has moved from https://visitmexico.com/?p=4709 to https://visitmexico.com/sonora
+16:55:13	Warning: 	Moved Permanently for https://visitmexico.com/?p=4724
+16:55:13	Warning: 	File has moved from https://visitmexico.com/?p=4724 to https://visitmexico.com/tabasco
+16:55:17	Warning: 	Moved Permanently for https://visitmexico.com/?p=4732
+16:55:17	Warning: 	File has moved from https://visitmexico.com/?p=4732 to https://visitmexico.com/tamaulipas
+16:55:20	Warning: 	Moved Permanently for https://visitmexico.com/?p=4737
+16:55:20	Warning: 	File has moved from https://visitmexico.com/?p=4737 to https://visitmexico.com/tlaxcala
+16:55:23	Warning: 	Moved Permanently for https://visitmexico.com/?p=4739
+16:55:23	Warning: 	File has moved from https://visitmexico.com/?p=4739 to https://visitmexico.com/veracruz
+16:55:26	Warning: 	Moved Permanently for https://visitmexico.com/?p=4745
+16:55:26	Warning: 	File has moved from https://visitmexico.com/?p=4745 to https://visitmexico.com/yucatan
+16:55:30	Warning: 	Moved Permanently for https://visitmexico.com/?p=4710
+16:55:30	Warning: 	File has moved from https://visitmexico.com/?p=4710 to https://visitmexico.com/zacatecas
+16:55:30	Warning: 	Moved Permanently for https://visitmexico.com/?p=9441
+16:55:30	Warning: 	File has moved from https://visitmexico.com/?p=9441 to https://visitmexico.com/materiales-promocionales-msg
+16:55:36	Warning: 	Moved Permanently for https://visitmexico.com/?p=9065
+16:55:36	Warning: 	File has moved from https://visitmexico.com/?p=9065 to https://visitmexico.com/descargas-prensa
+16:55:36	Warning: 	Moved Permanently for https://visitmexico.com/?p=13355
+16:55:36	Warning: 	File has moved from https://visitmexico.com/?p=13355 to https://visitmexico.com/archivos/13355
+16:55:36	Error: 	"Method Not Allowed" (405) at link https://visitmexico.com/xmlrpc.php (from https://visitmexico.com/archivos/13355)
+16:55:36	Warning: 	Moved Permanently for https://visitmexico.com/?p=13185
+16:55:36	Warning: 	File has moved from https://visitmexico.com/?p=13185 to https://visitmexico.com/archivos/13185
+16:55:36	Warning: 	Moved Permanently for https://visitmexico.com/?p=7312
+16:55:36	Warning: 	File has moved from https://visitmexico.com/?p=7312 to https://visitmexico.com/archivos/7312
+16:55:36	Warning: 	Moved Permanently for https://visitmexico.com/?p=3414
+16:55:36	Warning: 	File has moved from https://visitmexico.com/?p=3414 to https://visitmexico.com/archivos/3414
+16:55:36	Warning: 	Moved Permanently for https://visitmexico.com/?p=9898
+16:55:36	Warning: 	File has moved from https://visitmexico.com/?p=9898 to https://visitmexico.com/eng/videos-2
+16:55:36	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2022/09/back_meÌxico-02.png (from https://visitmexico.com/wp-content/uploads/elementor/css/post-9480.css?ver=1708723777)
+16:55:43	Warning: 	Moved Permanently for https://visitmexico.com/?p=12807
+16:55:43	Warning: 	File has moved from https://visitmexico.com/?p=12807 to https://visitmexico.com/dia-de-muertos
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/aguascalientes-0-1.png/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/AguascalientesDiadeMuertos.jpg/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/baja-california-0-1.png/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/BajaCalifornia.jpg/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/campeche-0-1.png/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/09/Campeche@0.5x.jpg/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/cdmx-0.png/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/09/CDMX@0.5x.jpg/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/chiapas-0-1.png/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Error when decompressing" (-1) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/09/chiapas-di%cc%81a-de-muertos.jpeg/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/chihuahua-0.png/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/09/Chihuahua@0.5x.jpg/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/edomex-0.png/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/09/EstadoDeMexico@0.5x.jpg/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/guanajuato-0.png/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/09/Guanajuato-dia-de-muertos.jpeg/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/jalisco-0.png/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/CalaverandiaJaliscoDiaDeMuertos.jpg/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/michoacan-0-1.png/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/MichoacanDiaDeMuertos.jpg/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/queretaro-0.png/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/QueretaroDiaDeMuertos.jpg/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/tlaxcala-0.png/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Error when decompressing" (-1) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/09/DI%cc%81ADEMUERTOSTlaxcala@0.5x.jpg/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/veracruz-0-1.png/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/u0022https:/visitmexico.com/wp-content/uploads/2023/10/NaolincoVeracruzDiaDeMuertos.jpg/u0022 (from https://visitmexico.com/dia-de-muertos)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Acapulco-Portada-espanÌol.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10162.css?ver=1698255822)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Campeche-Portada-espanÌol-.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10201.css?ver=1698255822)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Campeche-Portada-ingleÌs-travel-.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10201.css?ver=1698255822)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Cancun-EspanÌol.jpg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10221.css?ver=1698255822)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/cdmx-espanÌol.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10243.css?ver=1698255822)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/cdmx-ingleÌs.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10243.css?ver=1698255822)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/cdmx-franceÌs.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10243.css?ver=1698255822)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Chiapas-EspanÌol.jpg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10259.css?ver=1698255822)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Costa-Maya-EspanÌol.jpg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10260.css?ver=1698255823)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Guadalajara-EspanÌol.jpg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10293.css?ver=1698255823)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Guanajuato-EspanÌol.jpg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10308.css?ver=1698255823)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Cozumel-EspanÌol.jpg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10319.css?ver=1698255823)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/islas-del-caribe-espanÌol.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10333.css?ver=1698255823)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/islas-del-caribe-ingleÌs.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10333.css?ver=1698255823)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/islas-del-caribe-franceÌs.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10333.css?ver=1698255823)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Istas-del-caribe-alemaaÌn.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10333.css?ver=1698255823)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Ixtapa-Zihuatanejo-EspanÌol.jpg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10344.css?ver=1698255823)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Michoacan-espanÌol.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10353.css?ver=1698255824)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Michoacan-ingleÌs.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10353.css?ver=1698255824)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Oaxaca-espanÌol.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10363.css?ver=1698255824)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Puebla-espanÌol.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10379.css?ver=1698255824)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Puebla-franceÌs.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10379.css?ver=1698255824)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/puerto-morelos-espanÌol-.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10391.css?ver=1698255824)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Puerto-morelos-alemaÌn-jpeg.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10391.css?ver=1698255824)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Riviera-Maya-EspanÌol.jpg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10403.css?ver=1698255824)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Riviera-Nayarit-espanÌol.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10419.css?ver=1698255824)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Riviera-nayarit-ingleÌs.jpeg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10419.css?ver=1698255824)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Yucatan-EspanÌol.jpg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10427.css?ver=1698255824)
+16:55:43	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/2023/04/Zacatecas-EspanÌol.jpg (from https://visitmexico.com/wp-content/uploads/elementor/css/post-10438.css?ver=1698255825)
+16:55:43	Warning: 	Moved Permanently for https://visitmexico.com/?p=5538
+16:55:43	Warning: 	File has moved from https://visitmexico.com/?p=5538 to https://visitmexico.com/sol-y-playa-2
+16:55:43	Warning: 	Moved Permanently for https://visitmexico.com/?p=4696
+16:55:43	Warning: 	File has moved from https://visitmexico.com/?p=4696 to https://visitmexico.com/aguascalientes-3
+16:55:43	Warning: 	Moved Permanently for https://visitmexico.com/?p=5539
+16:55:43	Warning: 	File has moved from https://visitmexico.com/?p=5539 to https://visitmexico.com/gastronomia
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=8571
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=8571 to https://visitmexico.com/eng/archivos/8571
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=8191
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=8191 to https://visitmexico.com/eng/archivos/8191
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=5521
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=5521 to https://visitmexico.com/sol-y-playa
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7817
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7817 to https://visitmexico.com/eng/aguascalientes-en
+16:55:44	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/uploads/img/bg.jpg (from https://visitmexico.com/wp-content/uploads/essential-addons-elementor/eael-5508.css?ver=1683192749)
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7822
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7822 to https://visitmexico.com/eng/baja-california-eng
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7827
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7827 to https://visitmexico.com/eng/baja-california-sur-en
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7853
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7853 to https://visitmexico.com/eng/campeche-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7864
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7864 to https://visitmexico.com/eng/chiapas-en
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7870
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7870 to https://visitmexico.com/eng/chihuahua-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7859
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7859 to https://visitmexico.com/eng/cdmx-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7875
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7875 to https://visitmexico.com/eng/coahuila-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7880
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7880 to https://visitmexico.com/eng/colima-en
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7890
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7890 to https://visitmexico.com/eng/durango-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7895
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7895 to https://visitmexico.com/eng/estado-de-mexico-en
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7916
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7916 to https://visitmexico.com/eng/guanajuato-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7922
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7922 to https://visitmexico.com/eng/guerrero-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7927
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7927 to https://visitmexico.com/eng/hidalgo-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7932
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7932 to https://visitmexico.com/eng/jalisco-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7938
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7938 to https://visitmexico.com/eng/michoacan-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7943
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7943 to https://visitmexico.com/eng/morelos-en
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7951
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7951 to https://visitmexico.com/eng/nayarit-3
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7956
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7956 to https://visitmexico.com/eng/nuevo-leon-en
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7961
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7961 to https://visitmexico.com/eng/oaxaca-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7966
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7966 to https://visitmexico.com/eng/puebla-en
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7976
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7976 to https://visitmexico.com/eng/queretaro-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7981
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7981 to https://visitmexico.com/eng/quintana-roo-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7986
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7986 to https://visitmexico.com/eng/san-luis-potosi-2
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=7991
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=7991 to https://visitmexico.com/eng/sinaloa-en
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=8006
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=8006 to https://visitmexico.com/eng/tabasco-en
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=8011
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=8011 to https://visitmexico.com/eng/tamaulipas-en
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=8016
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=8016 to https://visitmexico.com/eng/tlaxcala-en
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=8021
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=8021 to https://visitmexico.com/eng/veracruz-en
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=8026
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=8026 to https://visitmexico.com/eng/yucatan-en
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=8031
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=8031 to https://visitmexico.com/eng/zacatecas-2
+16:55:44	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.eot?vcwy2s (from https://visitmexico.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.9.34)
+16:55:44	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.ttf?vcwy2s (from https://visitmexico.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.9.34)
+16:55:44	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.woff?vcwy2s (from https://visitmexico.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.9.34)
+16:55:44	Error: 	"Not Found" (404) at link https://visitmexico.com/wp-content/plugins/premium-addons-for-elementor/assets/plugins/premium-addons-for-elementor/assets/editor/fonts/pa-elements.svg?vcwy2s (from https://visitmexico.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.9.34)
+16:55:44	Warning: 	Moved Permanently for https://visitmexico.com/?p=13034
+16:55:44	Warning: 	File has moved from https://visitmexico.com/?p=13034 to https://visitmexico.com/eng/day-of-the-dead
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 minutes 6 seconds : 1889 links scanned, 1537 files written (443581098 bytes overall) [430843575 bytes received at 375954 bytes/sec], 42171328 bytes transferred using HTTP compression in 767 files, ratio 23%, 29.4 requests per connection
+(252 errors, 200 warnings, 0 messages)

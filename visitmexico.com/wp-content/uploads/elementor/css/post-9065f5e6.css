@@ -1,0 +1,41 @@
+.elementor-9065 .elementor-element.elementor-element-869a076 .eael-filterable-gallery-loadmore{text-align:center;}.elementor-9065 .elementor-element.elementor-element-869a076 .eael-filter-gallery-wrapper{background-color:#fff;border-radius:0px;}.elementor-9065 .elementor-element.elementor-element-869a076 .eael-filter-gallery-control ul li.control{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:#000000;}.elementor-9065 .elementor-element.elementor-element-869a076 .eael-filter-gallery-control ul > li.control{border-radius:0px;}.elementor-9065 .elementor-element.elementor-element-869a076 .eael-filter-gallery-control ul li.active{color:#fff;}.elementor-9065 .elementor-element.elementor-element-869a076 .eael-filter-gallery-control ul li.control.active{background:var( --e-global-color-accent );border-radius:5px;}.elementor-9065 .elementor-element.elementor-element-869a076 .eael-filterable-gallery-item-wrap .eael-gallery-grid-item{border-radius:0px;}.elementor-9065 .elementor-element.elementor-element-869a076 .gallery-item-caption-wrap.card-hover-bg{background-color:rgba(0,0,0,0.7);}.elementor-9065 .elementor-element.elementor-element-869a076 .video-popup-bg{background-color:rgba(0, 0, 0, .7);}.elementor-9065 .elementor-element.elementor-element-869a076 .video-popup:hover > img{transform:scale(1.1);}.elementor-9065 .elementor-element.elementor-element-869a076 .eael-filterable-gallery-item-wrap .gallery-item-caption-wrap.caption-style-card{background-color:#FFFFFF00;}.elementor-9065 .elementor-element.elementor-element-869a076 .fg-layout-3-item-content{background-color:#FFFFFF00;}.elementor-9065 .elementor-element.elementor-element-869a076 .gallery-item-caption-wrap.caption-style-card .fg-item-title{color:var( --e-global-color-accent );}.elementor-9065 .elementor-element.elementor-element-869a076 .gallery-item-caption-wrap.caption-style-card .fg-item-content{color:#444;}.elementor-9065 .elementor-element.elementor-element-869a076 .gallery-item-caption-wrap .gallery-item-buttons > a span{background:#ff622a;color:#fff;height:50px;line-height:50px;width:50px;font-size:18px;border-radius:100px;transition:300ms;}.elementor-9065 .elementor-element.elementor-element-869a076 .gallery-item-caption-wrap .gallery-item-buttons > a span img{height:18px;width:18px;}.elementor-9065 .elementor-element.elementor-element-869a076 .gallery-item-caption-wrap .gallery-item-buttons > a span:hover{background:#ff622a;color:#fff;border-radius:100px;}.elementor-9065 .elementor-element.elementor-element-869a076 .eael-gallery-load-more{background-color:var( --e-global-color-accent );color:#fff;}.elementor-9065 .elementor-element.elementor-element-869a076 .eael-gallery-load-more .eael-filterable-gallery-load-more-text{font-family:"Livvic", Sans-serif;font-weight:800;}.elementor-9065 .elementor-element.elementor-element-869a076 .eael-gallery-load-more .eael-filterable-gallery-load-more-icon{font-size:15px;}.elementor-9065 .elementor-element.elementor-element-869a076 .eael-gallery-load-more img.eael-filterable-gallery-load-more-icon{height:15px;width:15px;}.elementor-9065 .elementor-element.elementor-element-869a076 .eael-gallery-load-more:hover{background-color:#0BB4AA;color:#FFFFFF;}/* Start custom CSS */form label {
+    margin-top: 0;
+    color: #000;
+    font-size: 26px;
+    font-size: 1.625rem;
+    font-weight: 700;
+    text-align: center;
+    font-family: 'Livvic', sans-serif;
+    text-transform: uppercase;
+}
+
+#pwbox-9065 {
+    padding: 11px 10px;
+    font-size: 16px;
+    font-size: 1rem;
+    background: #fcfcfc;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 4px solid rgba(74, 74, 74,.19);
+    width: 350px;
+    border-radius: 0;
+}
+
+form [type="submit"] {
+    color: #ffffff;
+    background-color: #FF6B22;
+    border-radius: 5px;
+    border: none;
+}
+
+form [type="submit"] :hover {
+    color: #ffffff;
+}
+
+.form-div {
+    background-color: #fcfcfc;
+    border-radius: 5px;
+    text-align: center;
+    margin: 75px;
+}/* End custom CSS */

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>VisitMéxico</title>
+	<atom:link href="https://visitmexico.com/eng/feed" rel="self" type="application/rss+xml" />
+	<link>https://visitmexico.com/eng/home-2</link>
+	<description></description>
+	<lastBuildDate>Thu, 29 Sep 2022 21:59:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://visitmexico.com/wp-content/uploads/2022/09/favicon_visit_Mesa-de-trabajo-2.png</url>
+	<title>VisitMéxico</title>
+	<link>https://visitmexico.com/eng/home-2</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Notice of Privacy</title>
+		<link>https://visitmexico.com/eng/archivos/8582</link>
+					<comments>https://visitmexico.com/eng/archivos/8582#respond</comments>
+		
+		<dc:creator><![CDATA[Daniela Ceja]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 17:02:59 +0000</pubDate>
+				<category><![CDATA[Sin categoría]]></category>
+		<guid isPermaLink="false">https://visitmexico.sectur.gob.mx/?p=8582</guid>
+
+					<description><![CDATA[<p>Visit Mexico is the web page dedicated to promote of tourist destinations in Mexico at a national and international level, in charge of the Ministry of Tourism of the Government of Mexico, with address at Avenida Presidente Masaryk No. 172, Col. Polanco, CP 11580, Mexico City, which in compliance with the legal provisions of Personal &#8230; </p>
+<p class="link-more"><a href="https://visitmexico.com/eng/archivos/8582" class="more-link">Read more<span class="screen-reader-text"> "Notice of Privacy"</span></a></p>
+<p>The post <a rel="nofollow" href="https://visitmexico.com/eng/archivos/8582">Notice of Privacy</a> appeared first on <a rel="nofollow" href="https://visitmexico.com/eng/home-2/">VisitMéxico</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://visitmexico.com/eng/archivos/8582/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Spheres, glass art that decorates Christmas in Mexico</title>
+		<link>https://visitmexico.com/eng/archivos/8571</link>
+					<comments>https://visitmexico.com/eng/archivos/8571#respond</comments>
+		
+		<dc:creator><![CDATA[Daniela Ceja]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 16:18:48 +0000</pubDate>
+				<category><![CDATA[BLOG-EN]]></category>
+		<guid isPermaLink="false">https://visitmexico.sectur.gob.mx/?p=8571</guid>
+
+					<description><![CDATA[<p>Christmas in Mexico is a deep-rooted tradition, unique in the world. Year after year is decorated with spheres made by the skilled hands of master craftsmen who use the blown glass technique to create beautiful creations that accentuates this festivity. The Magical Towns of Tlalpujahua, Michoacán and Chignahuapan, Puebla are the two most representative destinations &#8230; </p>
+<p class="link-more"><a href="https://visitmexico.com/eng/archivos/8571" class="more-link">Read more<span class="screen-reader-text"> "Spheres, glass art that decorates Christmas in Mexico"</span></a></p>
+<p>The post <a rel="nofollow" href="https://visitmexico.com/eng/archivos/8571">Spheres, glass art that decorates Christmas in Mexico</a> appeared first on <a rel="nofollow" href="https://visitmexico.com/eng/home-2/">VisitMéxico</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://visitmexico.com/eng/archivos/8571/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>10 activities you can perform in Cozumel, Quintana Roo</title>
+		<link>https://visitmexico.com/eng/archivos/8191</link>
+					<comments>https://visitmexico.com/eng/archivos/8191#respond</comments>
+		
+		<dc:creator><![CDATA[Daniela Ceja]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 04:54:09 +0000</pubDate>
+				<category><![CDATA[BLOG-EN]]></category>
+		<guid isPermaLink="false">https://visitmexico.sectur.gob.mx/?p=8191</guid>
+
+					<description><![CDATA[<p>In the Mexican Caribbean, there is one of the most beautiful islands in Mexico: Cozumel. Its natural richness combines perfectly with the Mayan culture legacy, as well as its modern infrastructure to welcome tourism, such as its international airport, its hotel zone, and its pier, suitable for receiving large cruise ships. Also known as “Isla &#8230; </p>
+<p class="link-more"><a href="https://visitmexico.com/eng/archivos/8191" class="more-link">Read more<span class="screen-reader-text"> "10 activities you can perform in Cozumel, Quintana Roo"</span></a></p>
+<p>The post <a rel="nofollow" href="https://visitmexico.com/eng/archivos/8191">10 activities you can perform in Cozumel, Quintana Roo</a> appeared first on <a rel="nofollow" href="https://visitmexico.com/eng/home-2/">VisitMéxico</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>https://visitmexico.com/eng/archivos/8191/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
